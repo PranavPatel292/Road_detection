@@ -17,7 +17,6 @@ import PIL
 from PIL import Image, ImageTk
 import googlemaps #use for the Google MAP API
 
-gmaps = googlemaps.Client(key='AIzaSyDACgWTaiFx5mPi8owJIYmKhC8jeP-mACY') #
 
 
 import tensorflow.compat.v1 as tf
