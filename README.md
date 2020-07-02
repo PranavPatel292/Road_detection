@@ -4,7 +4,9 @@ This project is done to find the road work currently going on the road and updte
 # Motivations
 The sole motivation behind this project is to satisfy the inner passion for the Deep Learning.
 # Dataset
-There is no direct dataset available for this project, so we must create our own dataset by going out on the road and video record road work during Night and Day. After this the individual frames from the video must extract for the purpose of the image labelling. So, the steps of dataset collection are described as follow. You need to upload the provide dataset on the Google Drive (if you are going to use my Google CO-LAB, which is something I highly recommended)
+There is no direct dataset available for this project, so we must create our own dataset by going out on the road and video record road work during Night and Day. After this the individual frames from the video must extract for the purpose of the image labelling. So, the steps of dataset collection are described as follow. You need to upload the provide dataset on the Google Drive (if you are going to use my Google CO-LAB notebook, which is something I highly recommended)
+
+#### Note: - if you are unfamiler with Google CO-Lab please make your self confirtable
 
 Step 1: - Find a road working side near you.
 
