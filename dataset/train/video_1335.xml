@@ -1,0 +1,50 @@
+<annotation>
+	<folder>1</folder>
+	<filename>video_1335.jpg</filename>
+	<path>/Users/vaibhavpatel/Desktop/final_deep_learning/assignemnt3/1/video_1335.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>461</ymin>
+			<xmax>333</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>road cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>563</ymin>
+			<xmax>549</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>road cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>584</ymin>
+			<xmax>375</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>

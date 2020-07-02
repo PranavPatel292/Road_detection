@@ -1,0 +1,38 @@
+<annotation>
+	<folder>6</folder>
+	<filename>video_6034.jpg</filename>
+	<path>/Users/vaibhavpatel/Desktop/final_deep_learning/assignemnt3/6/video_6034.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>road works sign board</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>590</ymin>
+			<xmax>462</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>road works sign board</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>660</xmin>
+			<ymin>600</ymin>
+			<xmax>696</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

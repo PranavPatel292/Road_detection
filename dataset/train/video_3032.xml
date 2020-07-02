@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>video_3032.jpg</filename>
+	<path>/Users/vaibhavpatel/Desktop/final_deep_learning/assignemnt3/3/video_3032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prepare to stop board</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>608</xmin>
+			<ymin>626</ymin>
+			<xmax>697</xmax>
+			<ymax>691</ymax>
+		</bndbox>
+	</object>
+</annotation>
