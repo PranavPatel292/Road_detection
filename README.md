@@ -47,3 +47,5 @@ Path for the file:- path_of_where_my_repo_is_stored/models/research/object_detec
 
 You need to change the file path for few variables in the Object_detection_video.py file such as pb_file_ssd to the inference_graph_file and label_map_ssd to the labelmap.pbtext file location where it is stored.
 
+
+#For video demonstration click [here](https://www.youtube.com/watch?v=3TTfs7Yme6I&feature=youtu.be)
